@@ -237,7 +237,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/picture1-1-1400x788.png",
+              "src": "@PROJECT_PATH@/assets/images/picture1-1400x788.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
